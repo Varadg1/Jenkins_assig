@@ -1,0 +1,10 @@
+#!/bin/bash
+# Script to add three numbers 10, 12, and 14 and display the sum
+
+num1=10
+num2=12
+num3=14
+
+sum=$((num1 + num2 + num3))
+
+echo "The sum of $num1, $num2, and $num3 is: $sum"
